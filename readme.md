@@ -1,5 +1,7 @@
 # Baidu Statistics
 
+**UPDATE: Since next day Baidu hides the url of Baijiahao in the search result (so one cannot distinguish them from other results without opening the link), current version of the program cannot work anymore.**
+
 A simple Python 3 project to give some statistics information about [Baidu Search Engine](http://www.baidu.com), the 1st Search Engine in Mainland China.
 
 Currently, it contains:
